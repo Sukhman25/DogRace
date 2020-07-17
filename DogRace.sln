@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogRace", "DogRace\DogRace.csproj", "{A1789B11-ED43-4629-91B4-46CC5BAAC3F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{50B360C5-CC90-4421-8AAA-AC57BBCC4AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1789B11-ED43-4629-91B4-46CC5BAAC3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1789B11-ED43-4629-91B4-46CC5BAAC3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1789B11-ED43-4629-91B4-46CC5BAAC3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1789B11-ED43-4629-91B4-46CC5BAAC3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B360C5-CC90-4421-8AAA-AC57BBCC4AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B360C5-CC90-4421-8AAA-AC57BBCC4AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B360C5-CC90-4421-8AAA-AC57BBCC4AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B360C5-CC90-4421-8AAA-AC57BBCC4AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F5881B5-7645-4284-9554-880EEB9336B7}
+	EndGlobalSection
+EndGlobal
